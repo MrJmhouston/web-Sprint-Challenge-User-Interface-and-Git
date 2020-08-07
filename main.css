@@ -1,0 +1,62 @@
+/* start about page main body styles */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+}
+.first-section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    padding: 0rem 0 4rem 0rem;
+}
+
+.first-section div {
+    padding: 2rem 0rem 0rem 0rem;
+    width: 50%;
+    height: 24rem;
+}
+
+.second-section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    padding: 0rem 0 4rem 0rem;
+}
+
+.second-section div {
+    padding: 2rem 0rem 0rem 0rem;
+    width: 50%;
+    height: 24rem;
+}
+/* end about page main body styles */
+
+.about-p {
+    padding: 0rem 0rem 1rem 0;
+    justify-content: center;
+    align-content: center;
+}
+
+.p-line {
+    padding: .5rem 0rem 0rem 0rem;
+}
+
+button {
+    cursor: pointer;
+    background-color: white;
+    border-radius: .3rem;
+    border: 1px solid black;
+    padding: 4px 10px 4px 10px;
+    box-shadow:  1px .1rem 1px 1px ;
+}
+
+.body-img {
+    padding-bottom: 1rem;
+}
+
+.conclusion {
+    padding: 2rem;
+}
