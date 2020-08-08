@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Wording used in HTML to descrbe exactl what its objective is.
+Wording used in HTML to descrbe exactly what its objective is.
 -----------------------------------------------------------------------------
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
